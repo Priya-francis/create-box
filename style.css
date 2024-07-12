@@ -1,0 +1,21 @@
+.box{
+    width:60px;
+    height: 60px;
+    background-color: orangered;
+    border-radius: 14px;
+    margin: 20px 0;
+    display: flex;
+    
+}
+.boxContainer{
+    width: 500px;
+    height: 100vh;
+    display: flex;
+    gap: 10px;
+    margin: 60px auto;
+    flex-wrap: wrap;
+}
+.container{
+    margin: 60px auto;
+    text-align: center;
+}
